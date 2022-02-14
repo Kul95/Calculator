@@ -1,0 +1,27 @@
+*{
+    background-color:whitesmoke
+    background-image: url('calculatorr.jpg');
+    background-color: rgb(108, 34, 177); 
+
+
+}
+.formstyle{
+    border: 3px solid rgb(40, 226, 133);
+    width: 175px;
+    height: 255px;
+}
+.btn{
+    background-color: rgb(138, 107, 148);
+    width: 50px;
+}
+input:hover{
+    background-color: rgb(255, 51, 0);
+}
+body{
+  
+
+}
+div{
+  
+
+}
